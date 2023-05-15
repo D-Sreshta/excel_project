@@ -6,3 +6,11 @@ cleaned the data again
 calculated total using sumif formulae
 sorted the data
 select the top 5
+
+
+<p align='center'>
+  <a href="#"><img src="https://raw.githubusercontent.com/D-Sreshta/excel_project/main/Aggregate%20Scores.png" width="50"></a>
+  &nbsp;&nbsp;
+ <a href="#"><img src="https://raw.githubusercontent.com/D-Sreshta/excel_project/main/Top%205.png" height="50"></a>
+  &nbsp;&nbsp;
+</p>
