@@ -4,8 +4,8 @@ Have cleaned the data.
 added data on different excel sheets using power queries
 cleaned the data again
 calculated total using sumif formulae
-sorted the data
-select the top 5
+sorted the data and then
+selected the top 5
 
 
 <p align='center'>
